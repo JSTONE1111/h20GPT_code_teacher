@@ -9,5 +9,5 @@ rich==13.4.0
 h2o==3.40.0.2
 nltk==3.8.1
 spacy==3.6.1
-pydantic==2.2.1
+pydantic==2.4.0
 gunicorn==21.0.1
